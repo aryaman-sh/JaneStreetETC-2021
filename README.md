@@ -11,6 +11,3 @@ Utkarsh  @SharmaLlama\
 ## Our Strategy
 For the first round, which was the most weighted round of the challenge, we implemented a penny-pinching strategy to trade bonds close to their fair value. 
 For the following rounds, we developed many different strategies...
-
-
-(Code available on request)
